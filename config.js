@@ -14,6 +14,6 @@ btnReply: 'Gửi cho anh <3',
 reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
 mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
 messDesc: 'Từ nay,em không cần phải lo chuyện thế giới nữa đã có anh rồi.',
-btnAccept: 'Dạ, anh yêu<3',
+btnAccept: 'Dạ, anh<3',
 messLink: 'http://m.me/diepfx2005'
 }
